@@ -62,7 +62,7 @@ class TodoItem extends Component {
  
     if (editing) { 
         return (
-            <div>
+            <div className="restart">
             <input
               value={this.state.text}
               name="text"
@@ -95,7 +95,7 @@ class TodoItem extends Component {
               onChange={this.handleChange}
             />
 
-          <button onClick={this.handleToggleEdit}>적용</button>
+          <button className='create-button' onClick={this.handleToggleEdit}>적용</button>
           
           </div>
         );
