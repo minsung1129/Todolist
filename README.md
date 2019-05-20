@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### 'npm install'
+### `npm install`
 
-sudo apt install nodejs
+sudo apt install nodejs<br>
 sudo apt install npm
 
 ## Available Scripts
