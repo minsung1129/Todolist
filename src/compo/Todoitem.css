@@ -19,6 +19,13 @@
     border-top: 1px solid #f1f3f5;
   }
   
+  .restart input {
+    flex: 1; 
+    font-size: 1.25rem;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #c7fac5;
+  }
   
   .remove {
     margin-right: 1rem;
